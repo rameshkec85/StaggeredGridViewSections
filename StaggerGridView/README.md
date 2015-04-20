@@ -1,0 +1,2 @@
+# StaggeredGridViewSections
+Staggered gridview with sections using RecyclerView and StaggeredGridLayoutManager
